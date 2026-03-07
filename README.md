@@ -1,3 +1,4 @@
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J41UVIX7)
 # SMTProbe 
 
 A lightweight SMTP credential tester built for one thing netexec can't do — **testing credentials against the email domain format (`user@domain.com`)**.
